@@ -1,5 +1,0 @@
-# NeisStudentsGUI
-
-{
-lisence : MIT
-}
